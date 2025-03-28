@@ -19,6 +19,7 @@ Credit card fraud is a significant financial crime that affects consumers and in
 
 - **Source:** [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - **Description:** The dataset contains transactions made by European credit cardholders in September 2013. It includes 284,807 transactions, among which 492 are fraudulent.
+- **File Format:** The dataset is provided as a compressed `.7z` file due to its large size. Before use, extract the file using an appropriate tool like 7-Zip.
 
 ---
 
@@ -45,9 +46,10 @@ Credit card fraud is a significant financial crime that affects consumers and in
 
 ## Usage
 
-1. Input credit card transaction data.
-2. Run the model to predict fraudulent transactions.
-3. Visualize the results through provided graphs and performance metrics.
+1. Extract the dataset from `credit_fraud_data.7z` Before running the analysis.
+2. Input credit card transaction data.
+3. Run the model to predict fraudulent transactions.
+4. Visualize the results through the provided graphs and performance metrics.
 
 ---
 
