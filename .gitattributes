@@ -1,1 +1,1 @@
-*.csv filter=lfs diff=lfs merge=lfs -text
+credit_fraud_data.7z filter=lfs diff=lfs merge=lfs -text
